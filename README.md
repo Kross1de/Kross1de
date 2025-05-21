@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Kross1de
+- 👀 I’m interested developing low-level stuff
+- 🌱 I’m currently learning os development (my project: https://github.com/Kross1de/x32PRos)
